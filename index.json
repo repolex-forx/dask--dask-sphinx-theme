@@ -1,0 +1,11 @@
+{
+  "org": "dask",
+  "repo": "dask-sphinx-theme",
+  "versions": [
+    {
+      "commit": "0ac5a5fc37faaeef92d8c27aea1d058489e857c9",
+      "tag": "4.0.0",
+      "parsed_at": "2026-10-28T11:26:47.690510+00:00"
+    }
+  ]
+}
