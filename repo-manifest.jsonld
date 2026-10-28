@@ -8,8 +8,9 @@
     {
       "@id": "https://repolex.ai/r/dask/dask-sphinx-theme/commit/0ac5a5fc37faaeef92d8c27aea1d058489e857c9",
       "git:hexsha": "0ac5a5fc37faaeef92d8c27aea1d058489e857c9",
-      "repolex:parseStatus": "ast_complete",
-      "git:tagName": "4.0.0"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "4.0.0",
+      "repolex:parsedAt": "2026-10-28T11:26:47.689865+00:00"
     },
     {
       "@id": "https://repolex.ai/r/dask/dask-sphinx-theme/commit/d7bfb6cb78318ed2d36b1869ad394e641d4308ce",
