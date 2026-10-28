@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/dask/dask-sphinx-theme/commit/0ac5a5fc37faaeef92d8c27aea1d058489e857c9",
       "git:hexsha": "0ac5a5fc37faaeef92d8c27aea1d058489e857c9",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "4.0.0"
     },
     {
